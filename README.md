@@ -1,4 +1,4 @@
-# What is the Common Data Service>
+# What is the Common Data Service
 Presentation deck for CDS Saturday October 24, 2020
 See PDF as part of this repository
 
